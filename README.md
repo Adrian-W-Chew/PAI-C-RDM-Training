@@ -1,4 +1,4 @@
-# PAI-C RDM Training (Under Development)
+# PAI-C RDM Training (Under Development - Repository to be updated by 30 Nov 2023)
 Principles Aligned Institutionally-Contextualised (PAI-C) Research Data Management Training
 
 This repository contains resources for an institution to contextualise a principles-based RDM training with its institution's research data management policies, processes and systems.
