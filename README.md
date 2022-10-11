@@ -1,4 +1,4 @@
-# PAI-C RDM Training
+# PAI-C RDM Training (Under Development)
 Principles Aligned Institutionally-Contextualised (PAI-C) Research Data Management Training
 
 This repository contains resources for an institution to contextualise a principles-based RDM training with its institution's research data management policies, processes and systems.
@@ -11,3 +11,12 @@ Bond University, the University of New South Wales and the University of Sydney 
 The principles-based introductory RDM training was developed using the minimum RDM competencies identified in the Institutional Underpinnings (IU) Framework (Support, Training and Guidance Element) - see https://ardc.edu.au/program/institutional-underpinnings/
 
 Please contact Dr Adrian W. Chew (w.l.chew@unsw.edu.au) if you have any questions.
+
+# Project Team
+Dr Adrian W. Chew (w.l.chew@unsw.edu.au)
+
+Dr Adele Haythornthwaite adele.haythornthwaite@sydney.edu.au)
+
+Brock Askey (baskey@bond.edu.au)
+
+Dr Jacky Cho (k.cho@unsw.edu.au)
