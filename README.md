@@ -10,3 +10,4 @@ Bond University, the University of New South Wales and the University of Sydney 
 
 The principles-based introductory RDM training was developed using the minimum RDM competencies identified in the Institutional Underpinnings (IU) Framework (Support, Training and Guidance Element) - see https://ardc.edu.au/program/institutional-underpinnings/
 
+Please contact Dr Adrian W. Chew (w.l.chew@unsw.edu.au) if you have any questions.
