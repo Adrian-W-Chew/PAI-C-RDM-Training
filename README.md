@@ -28,7 +28,7 @@ The top Yellow row for each section shows how the Principles version (bottom Gre
 
 Link to PAI-C Storyboard https://miro.com/app/board/uXjVPtesJvg=/?share_link_id=933170072270
 
-Link to an example of PAI-C Section 1 (deployed on UNSW Learning Management System) to provide a 'look and feel' of the translation of the PAI-C Storyboard into an interactive online module https://rdmpocketrockets.ispring.com/app/preview/33da2228-a0f4-11ed-8a0b-7aa57ad180db.
+Link to an example of an interactive PAI-C Section 1 to provide a 'look and feel' of the translation of the PAI-C Storyboard into an online module https://rdmpocketrockets.ispring.com/app/preview/33da2228-a0f4-11ed-8a0b-7aa57ad180db. This interactive version can be deployed on most Learning Management Systems (i.e. Blackboard, Canvas and Moodle).
 
 # Funding Information
 The Principles Aligned Institutionally-Contextualised (PAI-C) Research Data Management Training project received funding from ARDC Institutional Underpinnings Program.
