@@ -6,7 +6,9 @@ This repository contains resources for an institution to contextualise a princip
 The adoption of PAI-C across institutions will contribute to a common baseline understanding of RDM across institutions, which in turn will facilitate cross institutional management of data (e.g. when researchers move between institutions, and collaborate across institutions). 
 
 # Background
-Bond University, the University of New South Wales and the University of Sydney undertook a joint project to develop and pilot test a Research Data Management (RDM) introductory educational/training experience for Higher Degree Research (HDR) candidates that targeted minimum RDM training outcomes/competencies, and contains the respective university’s materials/information on policies, processes and systems.
+The University of New South Wales (UNSW) designed, developed and rolled out a Research Data Management (RDM) online training for Higher Degree Research (HDR) candidates in 2019. Overall, the majority of the 643 candidates who completed the online training were satisfied with its quality and found it helpful – For more information, see Chew et al. (2022) https://journals.sagepub.com/doi/abs/10.1177/03400352211054120.
+
+Spring boarding off UNSW’s RDM training experiences, Bond University, UNSW and the University of Sydney undertook a joint project to develop and pilot test an RDM introductory educational/training experience for HDR candidates that targeted minimum RDM training outcomes/competencies, and contains the respective university’s materials/information on policies, processes and systems. For details of the PAI-C design and development process, see [IU PAI-C Extension_V0.2.pdf](https://github.com/Adrian-W-Chew/PAI-C-RDM-Training/files/10531677/IU.PAI-C.Extension_V0.2.pdf)
 
 The principles-based introductory RDM training was developed using the minimum RDM competencies identified in the Institutional Underpinnings (IU) Framework (Support, Training and Guidance Element) - see https://ardc.edu.au/program/institutional-underpinnings/
 
@@ -20,3 +22,6 @@ Dr Adele Haythornthwaite adele.haythornthwaite@sydney.edu.au)
 Brock Askey (baskey@bond.edu.au)
 
 Dr Jacky Cho (k.cho@unsw.edu.au)
+
+# Funding Information
+The Principles Aligned Institutionally-Contextualised (PAI-C) Research Data Management Training received funding from ARDC Institutional Underpinnings Program.
