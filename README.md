@@ -25,3 +25,9 @@ Dr Jacky Cho (k.cho@unsw.edu.au)
 
 # Funding Information
 The Principles Aligned Institutionally-Contextualised (PAI-C) Research Data Management Training received funding from ARDC Institutional Underpinnings Program.
+
+#Resources
+Please complete this online form (https://forms.office.com/r/18zBeemacr) if you are intending, or considering, to use PAI-C for your institution (please see Licence).
+Providing your contact details mean that we may be able to provide support in your institution's contextualisation and implementation.
+
+Link to PAI-C Storyboard https://miro.com/app/board/uXjVPtesJvg=/?share_link_id=933170072270
