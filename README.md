@@ -24,11 +24,17 @@ Brock Askey (baskey@bond.edu.au)
 Dr Jacky Cho (k.cho@unsw.edu.au)
 
 # Resources
+
+### PAI-C Storyboard
+
 The top Yellow row for each section shows how the Principles version (bottom Green row) was contextualised for use at UNSW.
 
-Link to PAI-C Storyboard https://miro.com/app/board/uXjVPtesJvg=/?share_link_id=933170072270
+Link to [PAI-C Storyboard](https://miro.com/app/board/uXjVPtesJvg=/?share_link_id=933170072270).
 
-Link to an example of an interactive PAI-C Section 1 to provide a 'look and feel' of the translation of the PAI-C Storyboard into an online module https://rdmpocketrockets.ispring.com/app/preview/33da2228-a0f4-11ed-8a0b-7aa57ad180db. This interactive version can be deployed on most Learning Management Systems (i.e. Blackboard, Canvas and Moodle).
+### Example: Interactive PAI-C Section 1
+
+This provides a 'look and feel' of the translation of the PAI-C Storyboard into an online module. This interactive version can be deployed on most Learning Management Systems (i.e. Blackboard, Canvas and Moodle).
+Link to an example of an [interactive PAI-C Section 1](https://rdmpocketrockets.ispring.com/app/preview/33da2228-a0f4-11ed-8a0b-7aa57ad180db). 
 
 # Funding Information
 The Principles Aligned Institutionally-Contextualised (PAI-C) Research Data Management Training project received funding from ARDC Institutional Underpinnings Program.
