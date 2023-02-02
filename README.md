@@ -32,7 +32,7 @@ The top Yellow row for each section shows how the Principles version (bottom Gre
 
 Click on this [PAI-C Storyboard Link](https://miro.com/app/board/uXjVPtesJvg=/?share_link_id=933170072270) to access the storyboard. The content in the Principles version (bottom Green row) can be used/adapted (under the License) to create an introductory RDM training on a platform/medium that suits your needs.
 
-Please note that the PAI-C storyboard is designed primarily as an online asynchronous training.
+Please note that the PAI-C storyboard is designed primarily for developing an online asynchronous training that can be deployed at scale.
 
 ### Example: Interactive PAI-C Section 1
 This provides a 'look and feel' of the translation of the PAI-C Storyboard into an online module. This interactive version can be deployed on most Learning Management Systems (i.e. Blackboard, Canvas and Moodle).
