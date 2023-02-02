@@ -25,10 +25,12 @@ Dr Jacky Cho (k.cho@unsw.edu.au)
 
 # Resources
 
+![This is a macroview of the PAI-C Storyboard](https://github.com/Adrian-W-Chew/PAI-C-RDM-Training/blob/main/Macroview%20of%20PAI-C%20Storyboard.png)
+
 ### PAI-C Storyboard
 The top Yellow row for each section shows how the Principles version (bottom Green row) was contextualised for use at UNSW.
 
-Link to [PAI-C Storyboard](https://miro.com/app/board/uXjVPtesJvg=/?share_link_id=933170072270).
+Click on this [PAI-C Storyboard Link](https://miro.com/app/board/uXjVPtesJvg=/?share_link_id=933170072270) to access the storyboard. The content in the Principles version (bottom Green row) can be used/adapted (under the License) to create an introductory RDM training on a platform/medium that suits your needs.
 
 ### Example: Interactive PAI-C Section 1
 This provides a 'look and feel' of the translation of the PAI-C Storyboard into an online module. This interactive version can be deployed on most Learning Management Systems (i.e. Blackboard, Canvas and Moodle).
